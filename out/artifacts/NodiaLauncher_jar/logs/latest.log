@@ -1,0 +1,49 @@
+[16:02:06] [Thread-4/INFO]: Setting user: Crios
+[16:02:07] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:02:08] [Client thread/ERROR]: Couldn't initialize twitch stream
+[16:02:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:ArmorStatusHUD, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:DirectionHUD, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:NodiaMod, FMLFileResourcePack:StatusEffectHUD
+[16:02:21] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[16:02:21] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[16:02:21] [Sound Library Loader/INFO]: Sound engine started
+[16:02:22] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:ArmorStatusHUD, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:DirectionHUD, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:NodiaMod, FMLFileResourcePack:StatusEffectHUD
+[16:02:23] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:02:24] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[16:02:25] [Sound Library Loader/INFO]: Sound engine started
+[16:02:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[16:02:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[16:02:30] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:02:30] [Server thread/INFO]: Generating keypair
+[16:02:30] [Server thread/INFO]: Preparing start region for level 0
+[16:02:31] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:02:32] [Server thread/INFO]: Crios[local:E:f9104581] logged in with entity id 736 at (-6.914700129332473, 97.09427422664142, 238.03614468516056)
+[16:02:32] [Server thread/INFO]: Crios joined the game
+[16:02:33] [Server thread/INFO]: Saving and pausing game...
+[16:02:33] [Server thread/INFO]: Saving chunks for level 'DEVELOPEMENT'/Overworld
+[16:02:33] [Server thread/INFO]: Saving chunks for level 'DEVELOPEMENT'/Nether
+[16:02:33] [Server thread/INFO]: Saving chunks for level 'DEVELOPEMENT'/The End
+[16:02:34] [Thread-15/INFO]: [CHAT] §2CustomNpcs§f installed. For more info §9§nClick here
+[16:02:35] [Client thread/INFO]: [CHAT] Version 1.0.7.47 of CodeChickenCore is available
+[16:02:35] [Client thread/INFO]: [CHAT] Version 1.0.5.120 of NotEnoughItems is available
+[16:02:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game.creative
+[16:02:38] [Client thread/INFO]: Warning: Clientside chunk ticking took 146 ms
+[16:02:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 157 ms
+[16:02:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 172 ms
+[16:02:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 183 ms
+[16:02:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 237 ms
+[16:02:43] [Client thread/INFO]: Warning: Clientside chunk ticking took 200 ms
+[16:02:45] [Client thread/INFO]: Warning: Clientside chunk ticking took 171 ms
+[16:02:46] [Client thread/INFO]: Warning: Clientside chunk ticking took 143 ms
+[16:02:46] [Client thread/INFO]: Warning: Clientside chunk ticking took 358 ms
+[16:02:48] [Client thread/INFO]: Warning: Clientside chunk ticking took 172 ms
+[16:02:48] [Server thread/INFO]: Saving and pausing game...
+[16:02:48] [Server thread/INFO]: Saving chunks for level 'DEVELOPEMENT'/Overworld
+[16:02:48] [Server thread/INFO]: Saving chunks for level 'DEVELOPEMENT'/Nether
+[16:02:48] [Server thread/INFO]: Saving chunks for level 'DEVELOPEMENT'/The End
+[16:02:49] [Client thread/INFO]: Stopping!
+[16:02:49] [Server thread/INFO]: Stopping server
+[16:02:49] [Server thread/INFO]: Saving players
+[16:02:49] [Server thread/INFO]: Saving worlds
+[16:02:49] [Server thread/INFO]: Saving chunks for level 'DEVELOPEMENT'/Overworld
+[16:02:49] [Server thread/INFO]: Saving chunks for level 'DEVELOPEMENT'/Nether
+[16:02:49] [Server thread/INFO]: Saving chunks for level 'DEVELOPEMENT'/The End
+[16:02:50] [Client Shutdown Thread/INFO]: Stopping server
